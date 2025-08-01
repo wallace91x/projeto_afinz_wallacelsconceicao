@@ -1,6 +1,8 @@
 # projeto_afinz_wallacelsconceicao
 Análise de KPIs de crédito com PostgreSQL (AWS) e Python. Inclui modelagem de dados, criação de view única, queries SQL otimizadas e dashboard executivo com métricas de aprovação, reprovação, faixas de score, bureau, limite concedido, primeira compra e inadimplência inicial (Over 30 Mob 2).
 
+**É sabido que, para apresentações executivas, o layout seria mais limpo, porém o notebook tem o intuito de dividir e demonsrar etapas de ETL e ao final criar um dashboard simples porém informativo com Python. A intenção foi demonstrar um fluxo automatizado que possa ser consumido em diversas outras ferramentas.**
+
 # 📊 Dashboard de KPIs de Crédito – AfinZ (Teste Técnico)
 
 Este projeto implementa a **análise completa do funil de propostas de crédito**, utilizando **PostgreSQL na AWS** com integração em Python (notebook). 
